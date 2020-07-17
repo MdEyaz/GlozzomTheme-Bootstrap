@@ -1,5 +1,5 @@
 # GlozzomTheme-Bootstrap
-Mulit page theme with quite a few designs
+Multi page theme with quite a few designs
 
 ### **Homepage**
 ![Home](https://user-images.githubusercontent.com/67804366/87814087-ec110c80-c884-11ea-8510-aa9f569cf6e5.JPG)
